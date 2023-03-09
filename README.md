@@ -12,4 +12,4 @@
   - 애니메이션 에셋 - LeanTween (https://assetstore.unity.com/packages/tools/animation/leantween-3595?locale=ko-KR)
   - 애니메이션 ease 속성 - Easing Demo (https://codepen.io/jhnsnc/pen/LpVXGM)
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
