@@ -5,7 +5,7 @@
 ---------------------------------
 
 ### **# 일지**
-<img src="https://user-images.githubusercontent.com/86781939/224081950-761f110d-ba49-4e06-bc36-ed2dae7f48c8.gif"  width="540" height="1200" >
+<img src="https://user-images.githubusercontent.com/86781939/224081950-761f110d-ba49-4e06-bc36-ed2dae7f48c8.gif"  width="270" height="600" >
   - **2023.03.10** UI 이동 + 크기 변경
 
 
