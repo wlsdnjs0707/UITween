@@ -10,9 +10,6 @@
    - **2023.03.10** UI 이동 + 크기 변경
    - **2023.xx.xx**
 
-
-<br>
-
 ## - 참고
   - 애니메이션 에셋 - LeanTween (https://assetstore.unity.com/packages/tools/animation/leantween-3595?locale=ko-KR)
   - 애니메이션 ease 속성 - Easing Demo (https://codepen.io/jhnsnc/pen/LpVXGM)
