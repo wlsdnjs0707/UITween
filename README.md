@@ -1,6 +1,6 @@
 # UI Tween Application (Unity)
 
-#### UI Tween 애니메이션 연습
+#### UI Tween 애니메이션 연습용 어플리케이션
 
 ---------------------------------
 
