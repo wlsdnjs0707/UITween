@@ -13,5 +13,6 @@
   - 애니메이션 ease 속성 - Easing Demo (https://codepen.io/jhnsnc/pen/LpVXGM)
 <br/>
 
-<img src="https://img.shields.io/badge/Unity-#FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"><img src="https://img.shields.io/badge/Visual%20Studio-#5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-#FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+<img src="https://img.shields.io/badge/Visual%20Studio-#5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
 <img src="https://img.shields.io/badge/C%20Sharp-#239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"><img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=GitHub&logoColor=white">
