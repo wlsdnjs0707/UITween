@@ -4,8 +4,8 @@
 ## - 일지
 <img src="https://user-images.githubusercontent.com/86781939/224249947-86ce63bf-555d-4d4f-9954-a43f1a751e01.gif"  width="270" height="600" > <img src="https://user-images.githubusercontent.com/86781939/224249455-59f49e92-4a7b-4058-b5ec-2153b90ad3ba.gif"  width="270" height="600" >
 
-   - **2023.03.09** 크기 변경
-   - **2023.03.10** UI 이동
+   - **2023.03.09** UI 크기 변경 애니메이션
+   - **2023.03.10** UI 이동 애니메이션
 <br/>
 
 ## - 참고
