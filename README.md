@@ -9,6 +9,20 @@
    - **2023.03.10** UI 회전, 투명도 변경 애니메이션
 <br/>
 
+## - 문제 해결
+```python
+homeBox.LeanMoveLocal(new Vector2(0, -2000), 0.75f).setEaseInQuint().setOnComplete(resetPosition);
+```
+   - setOnComplete로 애니메이션이 출력된 이후 함수 호출 (UI 위치 리셋)
+```python
+Invoke("enableButton", 1);
+```
+   - Invoke로 버튼 중복 입력 방지
+```python
+LeanTween.value(gameObject, updateValueExampleCallback, 0f, 1f, 1f);
+```
+   - 캔버스에는 투명도 속성이 없기 때문에 콜백함수를 만들어서 투명도 따로 변경
+
 ## - 참고
   - 애니메이션 에셋 - LeanTween (https://assetstore.unity.com/packages/tools/animation/leantween-3595?locale=ko-KR)
   - 애니메이션 ease 속성 - Easing Functions Cheat Sheet (https://easings.net/)
