@@ -22,6 +22,7 @@ Invoke("enableButton", 1);
 LeanTween.value(gameObject, updateValueExampleCallback, 0f, 1f, 1f);
 ```
    - 캔버스에는 투명도 속성이 없기 때문에 콜백함수를 만들어서 투명도 따로 변경
+<br/>
 
 ## - 참고
   - 애니메이션 에셋 - LeanTween (https://assetstore.unity.com/packages/tools/animation/leantween-3595?locale=ko-KR)
