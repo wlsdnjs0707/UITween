@@ -1,12 +1,12 @@
 # UI Tween 애니메이션 연습용 어플리케이션 (Unity)
 <br/>
 
-## - 일지
+## - 애니메이션
 <img src="https://user-images.githubusercontent.com/86781939/224249947-86ce63bf-555d-4d4f-9954-a43f1a751e01.gif"  width="270" height="600" > <img src="https://user-images.githubusercontent.com/86781939/224251388-fa556561-24ce-4e9b-b0c1-a7a17212521f.gif"  width="270" height="600" > <img src="https://user-images.githubusercontent.com/86781939/224290256-9409134a-02b2-4937-8aec-c56619c7c214.gif"  width="270" height="600" >
 
-   - **2023.03.09** UI 크기 변경 애니메이션
-   - **2023.03.10** UI 이동 애니메이션
-   - **2023.03.10** UI 회전, 투명도 변경 애니메이션
+   - 1. UI 크기 변경 애니메이션
+   - 2. UI 이동 애니메이션
+   - 3. UI 회전, 투명도 변경 애니메이션
 <br/>
 
 ## - 문제 해결
