@@ -17,7 +17,7 @@ homeBox.LeanMoveLocal(new Vector2(0, -2000), 0.75f).setEaseInQuint().setOnComple
 ```python
 Invoke("enableButton", 1);
 ```
-   - Invoke로 버튼 중복 입력 방지
+   - Invoke함수를 이용해 애니메이션이 출력되는 동안 버튼을 비활성화하여 중복 입력 방지
 ```python
 LeanTween.value(gameObject, updateValueExampleCallback, 0f, 1f, 1f);
 ```
